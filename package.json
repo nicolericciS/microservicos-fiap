@@ -1,0 +1,16 @@
+{
+    "id": 1,
+    "nome": "João Silva",
+    "nacionalidade": "Brasileiro",
+    "estado": "São Paulo",
+    "data_nascimento": "1995-05-20",
+    "rg_documento": "123456789",
+    "data_conclusao": "2024-10-10",
+    "curso": "Engenharia de Software",
+    "carga_horaria": 360,
+    "data_emissao": "2024-10-20",
+    "nome_assinatura": "Dr. Ana Paula",
+    "cargo_assinatura": "Diretora Acadêmica",
+    "url_diploma": "https://exemplo.com/diplomas/123456789.pdf"
+  }
+  
